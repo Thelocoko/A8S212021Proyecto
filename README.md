@@ -63,5 +63,3 @@ En cambio si nos dirigimos a alguno de los fragmentos sin que hayamos selecciona
 > Cada que se elimina o se actualiza un usuario la fotografia se elimina, en el caso de actualizar se elimina la foto antigua
 >
 > La persistencia esta implementada en las fotografias
-> 
-> Me pregunto si lo va a leer profe jajaja - Elias Conde Reyes 8S21
